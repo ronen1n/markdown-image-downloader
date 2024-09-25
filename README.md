@@ -53,10 +53,6 @@ This will process `my_post.md`, download its images to `image/blog_images/`, and
 
 This project is open source and available under the [MIT License](LICENSE).
 
-## Contributing
-
-Contributions, issues, and feature requests are welcome! Feel free to check [issues page](https://github.com/YOUR_USERNAME/markdown-image-downloader/issues).
-
 ## Show your support
 
 Give a ⭐️ if this project helped you!
