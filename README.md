@@ -24,8 +24,10 @@ Python 3.6+
 ```
 pip install requests
 
-git clone https://github.com/YOUR_USERNAME/markdown-image-downloader.git
+https://github.com/ronen1n/markdown-image-downloader.git
 cd markdown-image-downloader
+# or
+curl https://raw.githubusercontent.com/ronen1n/markdown-image-downloader/refs/heads/main/markdown-image-downloader.py -o markdown-image-downloader.py
 
 python markdown-image-downloader.py -m <markdown_file> -f <folder_name>
 ```
